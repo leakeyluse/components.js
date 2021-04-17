@@ -2,7 +2,7 @@
 Create and use React like components in ES5
 
 ## Installation
-Download components.js and add it to your project as a script tag
+Download components.js and add it to your project using a script tag
 
 ## Usage
 ```JavaScript
